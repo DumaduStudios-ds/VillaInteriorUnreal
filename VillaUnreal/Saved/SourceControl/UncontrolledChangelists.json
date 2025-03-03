@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/References/plastic_30.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/Material4.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/Default.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/0132_LightGray.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/Wood_Plywood_Knots.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/Custom__18_.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/NewMaterials/Glass.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_27_lock___/Materials/Color_M06.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_28_LOCK___copy/Materials/Translucent_Glass_Gray_1_2.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_27_lock___/Materials/0132_LightGray.uasset",
+				"C:/Users/user/Documents/GitHub/VillaInteriorUnreal/VillaUnreal/Content/Villa/VILLA_27_lock___/Materials/0042_Sienna.uasset"
+			]
+		}
+	]
+}
