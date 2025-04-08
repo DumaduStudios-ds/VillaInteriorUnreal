@@ -46,6 +46,10 @@
 		{
 			"Name": "OSC",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
